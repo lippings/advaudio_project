@@ -1,0 +1,5 @@
+input_format:
+  chunk: 4000
+  format: 'pyaudio.paInt16'
+  channels: 1
+  rate: 16000
